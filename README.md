@@ -1,1 +1,1 @@
-#Resources for Pycon Africa
+# Resources for Pycon Africa
